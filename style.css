@@ -63,7 +63,7 @@ img{
     border-radius: 2rem;
 }
 
-@media screen and (max-width: 769px) {
+@media screen and (max-width: 569px) {
     /* STYLES HERE */
     body{
         height: 100%;
